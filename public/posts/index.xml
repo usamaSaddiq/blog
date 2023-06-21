@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Usama&#39;s Blog</title>
-    <link>http://localhost:1313/</link>
-    <description>Recent content on Usama&#39;s Blog</description>
+    <title>Posts on Usama&#39;s Blog</title>
+    <link>http://localhost:1313/posts/</link>
+    <description>Recent content in Posts on Usama&#39;s Blog</description>
     <image>
       <title>Usama&#39;s Blog</title>
       <url>http://localhost:1313/papermod-cover.png</url>
@@ -11,7 +11,7 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 21 Jun 2023 22:01:15 +1000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 21 Jun 2023 22:01:15 +1000</lastBuildDate><atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>My First Blog Post Ever</title>
       <link>http://localhost:1313/posts/my-first-blog-post-ever/</link>

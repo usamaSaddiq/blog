@@ -130,13 +130,16 @@ params:
     homeInfoParams:
         Title: "Welcome to Usama's Blog"
         Content: >
-            Welcome to demo of hugo's theme PaperMod.
+            - Hey there 👋
 
-            - **PaperMod** is a simple but fast and responsive theme with useful feature-set that enhances UX.
+            - I'm a Senior Software Engineer based in Melbourne and currently working for [Seek](seek.com.au), but don't let that title fool you — I'm just a regular coding enthusiast with a passion for all things tech and sports.
 
-            - Do give a 🌟 on Github !
+            - When I'm not busy coding up a storm, you'll find me nerding out over chess moves, practicing the art of [leg spin](https://en.wikipedia.org/wiki/Leg_spin), tinkering with indie projects or visitng my family back home in Pakistan.
 
-            - PaperMod is based on theme [Paper](https://github.com/nanxiaobei/hugo-paper).
+            - It's my way of keeping things interesting and staying creatively energized. I'm a curious soul who loves exploring the deeper stuff. That's why my blog dives into philosophy, politics, AI, sports psychology and everything in between.
+
+            - You can find my socials below and please don't hesitate to get in touch 😀
+
     profileMode:
         enabled: false
         title: PaperMod
@@ -151,9 +154,11 @@ params:
               url: tags
     socialIcons:
         - name: github
-          url: "https://github.com/usamaSaddiq"
+          url: https://github.com/usamaSaddiq
         - name: twitter
-          url: "https://github.com/usamaSaddiq"
+          url: https://twitter.com/spicyMushroom01
+        - name: gitlab
+          url: https://gitlab.com/usama_saddiq
         - name: RSS
           url: "index.xml"
 
