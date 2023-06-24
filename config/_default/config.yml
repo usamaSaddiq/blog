@@ -1,5 +1,5 @@
 baseURL: "http://localhost:1313/"
-title: Usama's Blog
+title: Usama Saddiq
 paginate: 5
 theme: PaperMod
 
@@ -13,13 +13,10 @@ pygmentsUseClasses: true
 # googleAnalytics: UA-123-45
 
 menu:
-  main:
-    - name: Archives
-      url: /archives/
-      weight: 10
-    - name: About
-      url: /about/
-      weight: 15
+    main:
+        - name: Resume
+          url: resume.pdf
+          weight: 5
 
 minify:
     disableXML: true
@@ -35,15 +32,12 @@ languages:
           series: series
         menu:
             main:
-                - name: Archive
-                  url: archives
+                - name: Resume
+                  url: resume.pdf
                   weight: 5
-                - name: Search
-                  url: search/
-                  weight: 10
-                - name: Tags
-                  url: tags/
-                  weight: 10
+                # - name: Tags
+                #   url: tags/
+                #   weight: 10
 
     # fr:
     #     languageName: ":fr:"
@@ -130,15 +124,13 @@ params:
     homeInfoParams:
         Title: "Welcome to Usama's Blog"
         Content: >
-            - Hey there 👋
+            - > Inspiration exists but it has to find you working - Pablo Picasso
 
-            - I'm a Senior Software Engineer based in Melbourne and currently working for [Seek](seek.com.au), but don't let that title fool you — I'm just a regular coding enthusiast with a passion for all things tech and sports.
+            - I'm a Senior Software Engineer based in Melbourne and currently working for [Seek](seek.com.au).
 
-            - When I'm not busy coding up a storm, you'll find me nerding out over chess moves, practicing the art of [leg spin](https://en.wikipedia.org/wiki/Leg_spin), tinkering with indie projects or visitng my family back home in Pakistan.
+            - When I'm not busy coding, you'll find me nerding out over chess moves, practicing the art of [leg spin](https://en.wikipedia.org/wiki/Leg_spin), visitng my family back home in Pakistan or [indie hacking](https://www.indiehackers.com/start).
 
-            - It's my way of keeping things interesting and staying creatively energized. I'm a curious soul who loves exploring the deeper stuff. That's why my blog dives into philosophy, politics, AI, sports psychology and everything in between.
-
-            - You can find my socials below and please don't hesitate to get in touch 😀
+            - I like to learn about philosophy, history, artifical intelligence, psychology and everything in between. Slide into the DM's if you'd like to discuss an idea so crazy that it might just work 😀
 
     profileMode:
         enabled: false
@@ -153,10 +145,12 @@ params:
             - name: Tags
               url: tags
     socialIcons:
-        - name: github
-          url: https://github.com/usamaSaddiq
+        - name: linkedin
+          url: https://www.linkedin.com/in/usamasaddiq
         - name: twitter
           url: https://twitter.com/spicyMushroom01
+        - name: github
+          url: https://github.com/usamaSaddiq
         - name: gitlab
           url: https://gitlab.com/usama_saddiq
         - name: RSS

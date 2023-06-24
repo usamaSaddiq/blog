@@ -1,25 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Usama&#39;s Blog</title>
+    <title>Usama Saddiq</title>
     <link>http://localhost:1313/</link>
-    <description>Recent content on Usama&#39;s Blog</description>
+    <description>Recent content on Usama Saddiq</description>
     <image>
-      <title>Usama&#39;s Blog</title>
+      <title>Usama Saddiq</title>
       <url>http://localhost:1313/papermod-cover.png</url>
       <link>http://localhost:1313/papermod-cover.png</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
-    <lastBuildDate>Wed, 21 Jun 2023 22:01:15 +1000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>My First Blog Post Ever</title>
-      <link>http://localhost:1313/posts/my-first-blog-post-ever/</link>
-      <pubDate>Wed, 21 Jun 2023 22:01:15 +1000</pubDate>
-      
-      <guid>http://localhost:1313/posts/my-first-blog-post-ever/</guid>
-      <description>Being the entrepreneur I am 😀 here&amp;rsquo;s my first MVP blog post.</description>
-    </item>
-    
+    <language>en</language><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
