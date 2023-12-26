@@ -1,25 +1,25 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Usama&#39;s Blog</title>
-    <link>http://localhost:1313/posts/</link>
-    <description>Recent content in Posts on Usama&#39;s Blog</description>
+    <title>Posts on Usama Saddiq</title>
+    <link>http://usamasaddiq.com/posts/</link>
+    <description>Recent content in Posts on Usama Saddiq</description>
     <image>
-      <title>Usama&#39;s Blog</title>
-      <url>http://localhost:1313/papermod-cover.png</url>
-      <link>http://localhost:1313/papermod-cover.png</link>
+      <title>Usama Saddiq</title>
+      <url>http://usamasaddiq.com/papermod-cover.png</url>
+      <link>http://usamasaddiq.com/papermod-cover.png</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 21 Jun 2023 22:01:15 +1000</lastBuildDate><atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 25 Dec 2023 22:01:15 +1000</lastBuildDate>
+    <atom:link href="http://usamasaddiq.com/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>My First Blog Post Ever</title>
-      <link>http://localhost:1313/posts/my-first-blog-post-ever/</link>
-      <pubDate>Wed, 21 Jun 2023 22:01:15 +1000</pubDate>
-      
-      <guid>http://localhost:1313/posts/my-first-blog-post-ever/</guid>
-      <description>Being the entrepreneur I am 😀 here&amp;rsquo;s my first MVP blog post.</description>
+      <title>Delegating as a technical startup founder</title>
+      <link>http://usamasaddiq.com/posts/delegating-as-a-founder/</link>
+      <pubDate>Mon, 25 Dec 2023 22:01:15 +1000</pubDate>
+      <guid>http://usamasaddiq.com/posts/delegating-as-a-founder/</guid>
+      <description>Intro In 2022 I spent 5 months building Bree. Bree helped people get their clothes altered from the comfort of their own home, it was yet another &amp;lsquo;Uber for X&amp;rsquo; app. It consisted the following apps:
+Customer app to order clothing alterations/repairs built with React Native Merchant app to view and manage current alterations/repairs built with React Native Ruby on Rails API backend with Postgres as the data store FWIW the main focus of this blog post is sharing the tradeoffs we encountered delegating compared to building our own solution.</description>
     </item>
-    
   </channel>
 </rss>
