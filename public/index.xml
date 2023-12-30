@@ -18,8 +18,8 @@
       <link>http://usamasaddiq.com/posts/delegating-as-a-founder/</link>
       <pubDate>Mon, 25 Dec 2023 22:01:15 +1000</pubDate>
       <guid>http://usamasaddiq.com/posts/delegating-as-a-founder/</guid>
-      <description>Intro In 2022 I spent 5 months building Bree. Bree helped people get their clothes altered from the comfort of their own home, it was yet another &amp;lsquo;Uber for X&amp;rsquo; app. It consisted the following apps:
-Customer app to order clothing alterations/repairs built with React Native Merchant app to view and manage current alterations/repairs built with React Native Ruby on Rails API backend with Postgres as the data store FWIW the main focus of this blog post is sharing the tradeoffs we encountered delegating compared to building our own solution.</description>
+      <description>Intro In 2022 I spent 5 months building Bree. Bree helped people get their clothes altered from the comfort of their own home, it was yet another &amp;lsquo;Uber for X&amp;rsquo; startup. It consisted the following apps:
+Customer app to order clothing alterations/repairs Merchant app to view and manage current alterations/repairs Ruby on rails api backend with postgres as the data store FWIW the main focus of this blog post is sharing the tradeoffs we encountered delegating compared to building our own solution.</description>
     </item>
   </channel>
 </rss>
