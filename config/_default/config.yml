@@ -1,6 +1,7 @@
 baseURL: "http://usamasaddiq.com"
 title: Usama Saddiq
-paginate: 5
+pagination:
+  pagerSize: 5
 theme: PaperMod
 
 enableInlineShortcodes: true
