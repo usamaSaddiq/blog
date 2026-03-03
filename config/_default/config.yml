@@ -126,11 +126,9 @@ params:
         Content: >
             - > Inspiration exists but it has to find you working - Pablo Picasso
 
-            - I'm a Senior Software Engineer based in Melbourne and currently working for [Seek](https://seek.com.au).
+            - I'm a Senior Software Engineer based in Sydney and currently working for [Seek](https://seek.com.au).
 
             - When I'm not busy coding, you'll find me nerding out over chess moves, practicing the art of [leg spin](https://en.wikipedia.org/wiki/Leg_spin), visiting my family back home in Pakistan or [indie hacking](https://www.indiehackers.com/start).
-
-            - I like to learn about artifical intelligence, software developement, science and everything in between. Slide into the DM's if you'd like to discuss an idea so crazy that it might just work 😀
 
     profileMode:
         enabled: false
@@ -145,8 +143,6 @@ params:
             - name: Tags
               url: tags
     socialIcons:
-        - name: linkedin
-          url: https://www.linkedin.com/in/usamasaddiq
         - name: twitter
           url: https://twitter.com/spicyMushroom01
         - name: github
