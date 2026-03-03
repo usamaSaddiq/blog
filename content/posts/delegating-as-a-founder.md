@@ -1,6 +1,6 @@
 ---
 title: "Delegating as a technical startup founder"
-date: 2023-12-25T22:01:15+10:00
+date: 2025-12-25T22:01:15+10:00
 ---
 
 ### Intro
